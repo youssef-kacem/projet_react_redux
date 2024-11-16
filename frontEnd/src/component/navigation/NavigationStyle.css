@@ -1,0 +1,21 @@
+.mt-5, .my-5 {
+    margin-top: 0 !important;
+}
+.fontW {
+    font-weight: 500;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    font-weight: 500;
+
+    /* color: darkgray; */
+    color: #33b5e5 !important;
+    font-family: inherit;
+
+    /* color: rgb(41, 37, 37);
+    font-family: 'Dancing Script', cursive; */
+}

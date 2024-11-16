@@ -1,0 +1,76 @@
+export const ADD_SERVICES = "ADD_SERVICES";
+export const REMOVE_SERVICES = "REMOVE_SERVICES";
+export const EDIT_SERVICE = "EDIT_SERVICE";
+
+export const ADD_DEMANDES = "ADD_DEMANDES";
+export const REMOVE_DEMANDES = "REMOVE_DEMANDES";
+
+export const ADD_ZONE = "ADD_ZONE";
+export const REMOVE_ZONE = "REMOVE_ZONE";
+
+
+export const ADD_DISPONIBILITES = "ADD_DISPONIBILITES";
+export const REMOVE_DISPONIBILITES = "REMOVE_DISPONIBILITES";
+
+
+//  AUTH ACTIONS
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const USER_LOADED = "USER_LOADED";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const CLEAR_ERROR = "CLEAR_ERROR";
+export const LOGOUT = "LOGOUT";
+ 
+// Alert Actions
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+
+
+//  PROFILE ACTIONS
+export const ADD_NAME ="ADD_NAME";
+export const DELETE_NAME ="DELETE_NAME";
+export const UPDATE_NAME ="UPDATE_NAME";
+
+export const ADD_LASTNAME ="ADD_LASTNAME";
+export const DELETE_LASTNAME ="DELETE_LASTNAME";
+export const UPDATE_LASTNAME ="UPDATE_LASTNAME";
+
+export const UPDATE_PASSWORD ="UPDATE_PASSWORD";
+
+export const ADD_ADRESS ="ADD_ADRESS";
+export const DELETE_ADRESS ="DELETE_ADRESS";
+export const UPDATE_ADRESS ="UPDATE_ADRESS";
+
+export const ADD_ZIPCODE ="ADD_ZIPCODE";
+export const DELETE_ZIPCODE ="DELETE_ZIPCODE";
+export const UPDATE_ZIPCODE ="UPDATE_ZIPCODE";
+
+export const ADD_PHONENUMBER ="ADD_PHONENUMBER";
+export const DELETE_PHONENUMBER ="DELETE_PHONENUMBER";
+export const UPDATE_PHONENUMBER ="UPDATE_PHONENUMBER";
+
+export const ADD_WEBSITE ="ADD_WEBSITE";
+export const DELETE_WEBSITE ="DELETE_WEBSITE";
+export const UPDATE_WEBSITE ="UPDATE_WEBSITE";
+
+export const ADD_YEAR ="ADD_YEAR";
+export const DELETE_YEAR ="DELETE_YEAR";
+export const UPDATE_YEAR ="UPDATE_YEAR";
+
+export const ADD_REGION ="ADD_REGION";
+export const DELETE_REGION ="DELETE_REGION";
+export const UPDATE_REGION ="UPDATE_REGION";
+
+export const ADD_LANGUES ="ADD_LANGUES";
+export const DELETE_LANGUES ="DELETE_LANGUES";
+export const UPDATE_LANGUES ="UPDATE_LANGUES";
+
+
+export const EDIT_PROFIL ="EDIT_PROFIL";
+// @ OFFRES
+export const SEARCH ="SEARCH";
+export const GET_OFFERERS ="GET_OFFERERS";

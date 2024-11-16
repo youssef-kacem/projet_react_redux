@@ -1,0 +1,24 @@
+.input-groooup>.form-controool:not(:last-child) {
+    margin-left: 12px !important;
+    margin-top: 8px !important;
+}
+.input-groooup {
+    width: 947px !important;
+}
+
+.star-filter{
+    margin-top: 8px;
+
+}
+.nb-favoris {
+    display: contents;
+    font-family: monospace;
+    font-size: 14px;
+    color: gray;
+}
+.dv-star-rating{
+    margin-right: 21px;
+}
+.mtt{
+    margin-top: 9px !important;
+}

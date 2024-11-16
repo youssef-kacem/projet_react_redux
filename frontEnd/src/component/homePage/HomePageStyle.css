@@ -1,0 +1,708 @@
+/* .inner {
+    background-color:transparent !important;
+} */
+
+.css-1hwfws3 {
+    height: 53px;
+}
+
+.backgroundImg {
+    background-image: url(https://www.mariageatoutprix.com/wp-content/uploads/2019/04/photographe-tunis-focus-cinematographie-6.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.sf-bnr-text strong {
+    display: block;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    margin: 0 0 25px;
+    color: #fff;
+}
+
+.sf-bnr-text span {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 300!important;
+    width: 87%;
+    display: inline-block;
+    color: #fff;
+    font-family: open sans, sans-serif;
+}
+
+.conteneur {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 120px !important;
+    padding-bottom: 50px !important;
+}
+
+.sf-search-form-element {
+    padding-bottom: 120px !important;
+}
+
+.category-select, .select-city, .type-keyword {
+    border: 0!important;
+    vertical-align: middle;
+    width: 1250px;
+}
+
+select {
+    height: 55px !important;
+}
+
+.sf-search-form-element {
+    display: flex;
+    justify-content: center;
+}
+
+.controlHeight {
+    height: 55px !important;
+}
+
+.btn-block {
+    width: 200px !important;
+    height: 55px;
+}
+
+.section-head {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+/* QUEL SERVICE VOUS FERAIT PLAISIR AUJOURD’HUI ? */
+
+.bi1 {
+    background-image: url(https://www.amonservice.com/wp-content/uploads/2017/11/juste-pour-moi-600x443.jpg);
+}
+
+.bi2 {
+    background-image: url(https://www.amonservice.com/wp-content/uploads/2017/09/Evenements-600x450.jpg);
+}
+
+.bi3 {
+    background-image: url(https://www.amonservice.com/wp-content/uploads/2017/09/Famille-600x450.jpg);
+}
+
+.bi4 {
+    background-image: url(https://www.amonservice.com/wp-content/uploads/2017/11/maison-bien-etre-600x450.jpg);
+}
+
+.after-titile-line {
+    background-image: url(https://yogis-site.fr/ams/wp-content/uploads/2016/07/logo_icon.png);
+    display: none !important;
+}
+
+/* ==================== backg dark 4 img ========================== */
+
+.overlay-bg:before {
+    /* content: "";
+    background: #000;
+    position: absolute;
+    left: 14px;
+    top: 0;
+    width: 535px;
+    height: 250px;
+    opacity: .3; */
+}
+
+/* ============================================== */
+
+.section-content {
+    margin-top: 20px;
+}
+
+.catagories-listing {
+    position: relative;
+    min-height: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+.sf-element-bx {
+    margin-bottom: 30px;
+}
+
+.service-name {
+    margin: 0;
+    color: #fff;
+    font-weight: 500;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 10px 20px;
+    z-index: 1;
+}
+
+.section-full {
+    padding: 20px 0;
+    position: relative;
+}
+
+.section-full>.container {
+    z-index: 0;
+    position: relative;
+}
+
+.containerWidth {
+    width: 1200px;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 36px;
+    color: #555;
+}
+
+.background-color {
+    background-color: #f7f8fa;
+    z-index: 0;
+}
+
+/* 1 & 2 & 3 */
+
+.section-full {
+    padding: 20px 0;
+    position: relative;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.icon-bx-lg {
+    background-color: transparent;
+    color: #bd9330;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    border: 1px solid #bd9330;
+}
+
+.rounded-bx {
+    border-radius: 100%;
+}
+
+.icon-bx-lg {
+    transition: all .2s linear;
+}
+
+.how-sf-work .sf-element-bx:hover .icon-bx-lg {
+    transform: translatey(-10px);
+}
+
+ul li, ol li {
+    padding: 0;
+    list-style: none;
+}
+
+.icon-bx-lg {
+    line-height: 130px;
+}
+
+a:-webkit-any-link {
+    cursor: pointer;
+}
+
+/* concierge-bell */
+
+.background-concierge-bell {
+    background: url('https://www.amonservice.com/wp-content/uploads/2017/09/BG4.jpg') center fixed no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto 10px;
+    position: relative;
+}
+
+.overlay-black-middle:after {
+    background: #000;
+    opacity: .4;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* =========== tal3et eli fouset lcontainer fou9 lbackround lk7la ============= */
+
+.section-full>.container {
+    z-index: 1;
+    position: relative;
+}
+
+.overlay-black-middle:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.rendez__service_content h4 {
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 24px;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 0;
+    display: block;
+}
+
+.white_header {
+    color: #fff;
+}
+
+.rendez__service {
+    color: #fff;
+    height: 370px;
+    text-align: center;
+}
+
+.section-head>p {
+    font-size: 14px;
+    color: #939393;
+    margin: 0;
+    text-align: left;
+    line-height: 24px;
+}
+
+.section-head {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.section-head h2 {
+    margin-bottom: 0;
+    margin-left: 0;
+    text-align: left;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+/* btn */
+
+.rendez__service_content .cta {
+    background: #10be81;
+    border: 0;
+    padding: 1.5em 3em;
+    margin-top: 2em;
+    transition: .2s ease;
+    border-radius: 5px;
+    color: #fff!important;
+    box-shadow: none!important;
+    font-weight: 400;
+    outline: 0!important;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+}
+
+/* ============== avon fouter user r100% =================== */
+
+.a1 {
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0s ease 0s;
+    width: 2925px;
+}
+
+.a2 {
+    width: 585px;
+    margin-right: 0px;
+}
+
+.a3 {
+    display: none;
+}
+
+.section-full {
+    padding: 20px 0;
+    position: relative;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+    display: block;
+    padding: 20px 0;
+    position: relative;
+}
+
+.section-full>.container {
+    z-index: 1;
+    position: relative;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1200px;
+    z-index: 1;
+    position: relative;
+}
+
+.section-content {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.section-head {
+    margin-bottom: 0;
+    text-align: left;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+}
+
+/* .section-head h2 {
+    margin-bottom: 0;
+    margin-left: 0;
+    text-align: left;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    margin-top: 20px;
+    font-family: Open Sans;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 36px;
+    color: #555;
+    text-transform: uppercase;
+} */
+
+.page-wraper {
+    background: #f7f8fa;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+    background: #f7f8fa;
+}
+
+.owl-carousel.owl-loaded {
+    display: block;
+}
+
+.owl-carousel {
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+    z-index: 1;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+}
+
+.owl-stage-outer {
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+}
+
+.owl-stage {
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+    position: relative;
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0s ease 0s;
+    width: 2925px;
+}
+
+element.style {
+    width: 585px;
+    margin-right: 0px;
+}
+
+.owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    user-select: none;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+}
+
+.testimonial-bx {
+    margin-bottom: 0;
+    padding: 0 30px;
+    position: relative;
+}
+
+.owl-carousel .owl-item {
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+}
+
+.testimonial-pic {
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    box-sizing: border-box;
+    background: #fff;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border: 5px solid #fff;
+    position: relative;
+    float: left;
+    -webkit-border-radius: 100%;
+    box-shadow: 2px 3px 6px -3px rgba(0, 0, 0, .35);
+}
+
+.owl-carousel .owl-item img {
+    transform-style: inherit;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    box-sizing: border-box;
+    border: 0;
+    border-style: none;
+    max-width: 100%;
+    vertical-align: middle;
+    height: 90px;
+    -webkit-border-radius: 100%;
+    display: block;
+    width: 100%;
+}
+
+.testimonial-text {
+    margin-left: 120px;
+    line-height: 20px;
+    padding: 10px;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+.testimonial-text .testimonial-detail {
+    margin-top: 15px;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+
+.testimonial-text strong {
+    font-size: 16px;
+    color: #bd9330;
+    display: inline-block;
+    position: relative;
+    margin-right: 5px;
+    font-family: open sans, sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    line-height: 20px;
+    box-sizing: border-box;
+    font-weight: 600;
+}
+
+.testimonial-text strong:after {
+    content: "/";
+    color: #333;
+    margin-left: 3px;
+}
+
+:after {
+    box-sizing: border-box;
+}
+
+.testimonial-text span {
+    font-size: 14px;
+    color: #333;
+    font-style: italic;
+    font-family: open sans, sans-serif;
+    font-weight: 400;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+
+element.style {
+    width: 585px;
+    margin-right: 0px;
+}
+
+.owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    box-sizing: border-box;
+    width: 585px;
+    margin-right: 0px;
+}
+
+.testimonial-text .testimonial-detail {
+    margin-top: 15px;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    line-height: 20px;
+    box-sizing: border-box;
+    margin-top: 15px;
+}
+
+.owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.owl-theme .owl-controls {
+    margin-top: 40px;
+    text-align: center;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.owl-theme .owl-controls {
+    text-align: center;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #767676;
+    -webkit-tap-highlight-color: transparent;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.owl-theme .owl-controls .owl-nav .owl-prev {
+    font-size: 13px;
+    margin: 0 5px;
+    padding: 5px 11px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: open sans, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    -webkit-tap-highlight-color: transparent;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #bd9330;
+    border: 0;
+    border-radius: 5px;
+    color: #fff!important;
+    user-select: none;
+    font-size: 13px;
+    margin: 0 5px;
+    padding: 5px 11px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* ============== avon fouter user r100% =================== */

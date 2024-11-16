@@ -1,0 +1,78 @@
+.label-row>label{
+    display: block;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.upload-box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #e3e3e3;
+    background-size: cover;
+    background-position: 50%;
+    overflow: hidden;
+    vertical-align: middle;
+    margin-right: 35px;
+}
+
+.h{
+    height: 39px !important;
+}
+label{
+    margin-bottom:  0 !important ;
+}
+#fs{
+    display: inline-block;
+    font-size: 20px;
+    line-height: 2;
+    padding-right: 16px;
+}
+#pl{
+    padding-left: 35px;
+}
+
+.hr{
+    border-top: 1px solid #e3e3e3;
+    padding-top: 20px;
+    margin-top: 30px;
+    border-bottom: 1px solid #e3e3e3;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.lang:before {
+    content: "";
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 16px;
+    height: 12px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.lang-fr:before {  
+    background-image: url(https://d2kzpkef14nfxb.cloudfront.net/images/website/flags/svg/fr.svg);
+}
+.lang-en:before {  
+    background-image: url(https://d2kzpkef14nfxb.cloudfront.net/images/website/flags/svg/gb.svg);
+}
+.lang-es:before {
+    background-image: url(https://d2kzpkef14nfxb.cloudfront.net/images/website/flags/svg/es.svg);
+}
+.lang-it:before {
+    background-image: url(https://d2kzpkef14nfxb.cloudfront.net/images/website/flags/svg/it.svg);
+}
+.lang-ar:before {
+    background-image: url(https://d2kzpkef14nfxb.cloudfront.net/images/website/flags/svg/sa.svg);
+}
+.po-bb{
+    position: relative !important;  
+    left: -423px !important;  
+    bottom: -42px !important;
+}

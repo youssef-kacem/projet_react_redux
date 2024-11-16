@@ -1,0 +1,22 @@
+.membre-card {
+    width: 290px;
+    margin: 20px;
+}
+
+.imggg {
+    width: 100%;
+    height: 300px;
+}
+
+.btn[class*="btn-outline-"] {
+    width: 160px !important;
+    padding: 15px;
+}
+
+/* a{
+    padding: 0 !important;
+} */
+
+.tc {
+    color: #2196f3!important;
+}

@@ -1,0 +1,122 @@
+.title-comment{
+    font-size: 2.6em;
+    font-weight: 300;
+    line-height: 42px;
+    margin: 0 0 32px 0;
+}
+.img-comment{
+    float: right ;
+    padding: 5px;
+
+}
+p.featured {
+    font-size: 1.6em;
+    line-height: 1.5em;
+
+    margin: 0 0 20px;
+    color: #777;
+}
+.p-comment {
+    color: #777;
+    line-height: 24px;
+    margin: 0 0 20px;
+}
+.lead {
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+.row-comment {
+    margin-left: -15px;
+    margin-right: -15px;
+    display: flex;
+}
+.hr-comment{
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+}
+.h3-comment{
+    color: #bd9330;
+    font-size: 1.8em;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 24px;
+    margin-bottom: 33px;
+    text-transform: uppercase;
+    margin: 0;
+
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.h4-comment {
+    color: #bd9330;
+    font-size: 1.4em;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 27px;
+    margin: 0 0 14px 0;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.container-comment{
+    width: 1170px;
+}
+div.feature-box {
+    clear: both;
+}
+div.feature-box div.feature-box-info {
+    float: left;
+    padding-left: 0 !important;
+    min-height: 220px;
+}
+div.feature-box.secundary h4 {
+    color: #121214;
+}
+h4.shorter {
+    margin-bottom: 0;
+}
+p.tall {
+    margin-bottom: 20px;
+}
+div.feature-box {
+    clear: both;
+}
+.mt{
+    margin-top: 35px;
+}
+
+.abcd{
+    
+    background: transparent;
+    width: 50px;
+    height: 50px;
+    border-radius: 35px;
+    display: inline-block;
+    line-height: 35px;
+    margin-right: 10px;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    color: #bd9330;
+    font-size: 28px;
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
